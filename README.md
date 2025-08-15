@@ -1,2 +1,3 @@
 # firstcode-demo
-my first Git repository
+My first Git repository
+Author- Amritanjan Prajapati
